@@ -1,2 +1,1 @@
-# warehouse-workforce-analytics
-Workforce intelligence prototype built for humano LLC — CPU savings calculator, site performance dashboard, and turnover risk predictor using Python and Plotly.
+A workforce analytics prototype built for a SoCal logistics staffing company — featuring an interactive CPU savings calculator, live site performance dashboard, and an AI-powered turnover risk predictor.
