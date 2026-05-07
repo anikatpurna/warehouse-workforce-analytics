@@ -79,7 +79,6 @@ once connected to humano's real operational data.
 
 This project was built in a single day as a demonstration of what data engineering 
 and analytics could look like inside a logistics staffing company with no current 
-analytics infrastructure. Every tool in this notebook addresses a real business problem 
-humano faces today.
+analytics infrastructure. Every tool in this notebook addresses a real business faces today.
 
 *University of Redlands · Data Science & Business Administration · Class of 2026*
